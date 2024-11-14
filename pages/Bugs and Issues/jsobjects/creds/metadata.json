@@ -1,0 +1,20 @@
+{
+  "gitSyncId": "67358a772d88bf1a5050ad37_41b0b4a2-4441-4e8f-8c52-aa20d4745a05",
+  "id": "Bugs and Issues_creds",
+  "unpublishedCollection": {
+    "name": "creds",
+    "pageId": "Bugs and Issues",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "variables": [
+      {
+        "name": "baseId",
+        "value": "''"
+      },
+      {
+        "name": "tableName",
+        "value": "''"
+      }
+    ]
+  }
+}

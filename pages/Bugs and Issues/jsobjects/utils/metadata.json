@@ -1,0 +1,16 @@
+{
+  "gitSyncId": "67358a772d88bf1a5050ad37_b80b7008-b9f1-4900-9f97-bf5e04ae023b",
+  "id": "Bugs and Issues_utils",
+  "unpublishedCollection": {
+    "name": "utils",
+    "pageId": "Bugs and Issues",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "variables": [
+      {
+        "name": "imageIndex",
+        "value": "0"
+      }
+    ]
+  }
+}

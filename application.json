@@ -6,6 +6,10 @@
   "evaluationVersion": 2,
   "pages": [
     {
+      "id": "Bugs and Issues",
+      "isDefault": false
+    },
+    {
       "id": "Page1",
       "isDefault": true
     }
